@@ -1,0 +1,9 @@
+Which States Have the Most Reported Cases of Zika?
+
+In September 2016, Florida officials reported that the Zika virus had been detected in local mosquitoes — the first time the virus has been found in U.S. mosquitoes. The discovery prompted a more aggressive response from Florida to combat the virus, as well as calls on Congress to provide emergency resources. No cure or vaccine currently exists for the mosquito-borne virus, which has been linked to microcephaly in infants.
+
+According to the most recent data from the Centers for Disease Control and Prevention, there have been 3,878 travel-associated cases and 137 locally acquired mosquito-borne cases of Zika in the U.S. alone. But, those numbers don’t tell the full story. Within the U.S., the Zika virus is concentrated in certain areas.
+
+Using data from the CDC, HealthGrove, a health research site powered by Graphiq, looked at all the reported cases of Zika between 2015 and 2016 in the U.S. The data analysts then ranked each state and the District of Columbia by the number of travel-associated cases. Ties are broken alphabetically, and Alaska is not included due to a lack of data from the CDC.
+
+There are travel-associated cases of Zika in every state, with the highest concentrations of the virus located in the most populous states. Surprisingly, Florida does not have the most reported cases of Zika, despite being the only state with locally acquired cases of the virus.

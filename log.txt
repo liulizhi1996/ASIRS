@@ -1,0 +1,9 @@
+cancer	20
+cancer	20
+cancer	20
+cancer	20
+cancer	20
+cancer	20
+cancer	20
+food	8, 9, 11, 12
+cancer	18,20

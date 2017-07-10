@@ -1,0 +1,9 @@
+These Countries Are Getting Healthier
+
+Is the world getting healthier? According to the World Health Organization, the global life expectancy in 2015 was 71.4 years. That marks a five-year increase in life expectancy between 2000 and 2015, due in part to major advancements in technology and medicine.
+
+While the rise in global life expectancy is an encouraging sign, that metric on its own doesn’t tell the full story. Another useful measurement in global health is the disability-adjusted life year. DALY is a measure of overall disease burden, expressed as the number of years lost due to ill-health, disability or early death. In other words, one DALY represents one lost year of healthy life. So, a decrease in the rate of DALYs would signal improving health in a country.
+
+To determine which countries are getting healthier, HealthGrove, a health research site by Graphiq, calculated the percent change in every country’s DALY rate between 2010 and 2015, using data from the Institute for Health Metrics and Evaluation Global Health Data Exchange.
+
+In total, 142 countries saw a decrease in the rate of DALYs per 100,000 people. Developing countries dominate the ranking, with nations in sub-Saharan Africa occupying 17 of the top 20 spots. Notably absent from the list are developed countries like the United States and Japan, as well as war-torn places like Syria and Iraq. Keep in mind that DALYs are just one way to measure global health; like other metrics, whether it be life expectancy or mortality rates, DALY rates have their own strengths and weaknesses.
